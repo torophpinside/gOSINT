@@ -2,7 +2,7 @@
 
 When contributing to this repository, please first discuss the change you wish to make opening an issue.
 
-Please always check if the feature you want to add is already available in the [develop branch](https://github.com/Nhoya/gOSINT/tree/develop) before opening an issue or a PR.
+Please always check if the feature you want to add is already available in the [develop branch](https://gOSINT/tree/develop) before opening an issue or a PR.
 
 ## Pull Request Process
 

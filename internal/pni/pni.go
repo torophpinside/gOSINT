@@ -13,7 +13,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/Nhoya/gOSINT/internal/utils"
+	"gOSINT/internal/utils"
 	"github.com/otiai10/gosseract"
 )
 

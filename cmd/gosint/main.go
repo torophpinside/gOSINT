@@ -2,17 +2,17 @@ package main
 
 import (
 	"fmt"
+	"gOSINT/internal/axfr"
+	"gOSINT/internal/git"
+	"gOSINT/internal/hibp"
+	"gOSINT/internal/pgp"
+	"gOSINT/internal/pni"
+	"gOSINT/internal/reversewhois"
+	"gOSINT/internal/shodan"
+	"gOSINT/internal/telegram"
+	"gOSINT/internal/utils"
 	"os"
 
-	"github.com/Nhoya/gOSINT/internal/axfr"
-	"github.com/Nhoya/gOSINT/internal/git"
-	"github.com/Nhoya/gOSINT/internal/hibp"
-	"github.com/Nhoya/gOSINT/internal/pgp"
-	"github.com/Nhoya/gOSINT/internal/pni"
-	"github.com/Nhoya/gOSINT/internal/reversewhois"
-	"github.com/Nhoya/gOSINT/internal/shodan"
-	"github.com/Nhoya/gOSINT/internal/telegram"
-	"github.com/Nhoya/gOSINT/internal/utils"
 	"gopkg.in/alecthomas/kingpin.v2"
 )
 

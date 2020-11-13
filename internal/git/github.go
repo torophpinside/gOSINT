@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/Nhoya/gOSINT/internal/utils"
+	"gOSINT/internal/utils"
 	"github.com/google/go-github/github"
 	"golang.org/x/oauth2"
 )

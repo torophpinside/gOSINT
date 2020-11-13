@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Nhoya/gOSINT/internal/utils"
+	"gOSINT/internal/utils"
 	"github.com/deckarep/golang-set"
 	"gopkg.in/src-d/go-git.v4"
 	"gopkg.in/src-d/go-git.v4/plumbing/object"

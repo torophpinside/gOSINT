@@ -5,7 +5,7 @@ import (
 	"os"
 	"regexp"
 
-	"github.com/Nhoya/gOSINT/internal/utils"
+	"gOSINT/internal/utils"
 	"gopkg.in/ns3777k/go-shodan.v2/shodan"
 )
 

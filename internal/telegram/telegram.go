@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Nhoya/gOSINT/internal/utils"
+	"gOSINT/internal/utils"
 
 	"github.com/jaytaylor/html2text"
 )

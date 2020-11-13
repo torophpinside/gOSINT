@@ -1,8 +1,8 @@
-# gOSINT [![Build Status](https://travis-ci.org/Nhoya/gOSINT.svg?branch=master)](https://travis-ci.org/Nhoya/gOSINT) [![Build status](https://ci.appveyor.com/api/projects/status/9qn2y2f8t5up8ww2?svg=true)](https://ci.appveyor.com/project/Nhoya/gosint) [![GitHub stars](https://img.shields.io/github/stars/Nhoya/gOSINT.svg)](https://github.com/Nhoya/gOSINT/stargazers) [![GitHub forks](https://img.shields.io/github/forks/Nhoya/gOSINT.svg)](https://github.com/Nhoya/gOSINT/network) [![Twitter](https://img.shields.io/twitter/url/https/github.com/Nhoya/gOSINT.svg?style=social&style=plastic)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FNhoya%2FgOSINT) [![Go Report Card](https://goreportcard.com/badge/github.com/Nhoya/gOSINT)](https://goreportcard.com/report/github.com/Nhoya/gOSINT) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/76673062a30e48bd99d499d32c0c6af0)](https://www.codacy.com/app/Nhoya/gOSINT?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Nhoya/gOSINT&amp;utm_campaign=Badge_Grade) [![Mentioned in Awesome Pentest](https://awesome.re/mentioned-badge.svg)](https://github.com/enaqx/awesome-pentest)
+# gOSINT [![Build Status](https://travis-ci.org/Nhoya/gOSINT.svg?branch=master)](https://travis-ci.org/Nhoya/gOSINT) [![Build status](https://ci.appveyor.com/api/projects/status/9qn2y2f8t5up8ww2?svg=true)](https://ci.appveyor.com/project/Nhoya/gosint) [![GitHub stars](https://img.shields.io/github/stars/Nhoya/gOSINT.svg)](https://gOSINT/stargazers) [![GitHub forks](https://img.shields.io/github/forks/Nhoya/gOSINT.svg)](https://gOSINT/network) [![Twitter](https://img.shields.io/twitter/url/https/github.com/Nhoya/gOSINT.svg?style=social&style=plastic)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FNhoya%2FgOSINT) [![Go Report Card](https://goreportcard.com/badge/github.com/Nhoya/gOSINT)](https://goreportcard.com/report/github.com/Nhoya/gOSINT) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/76673062a30e48bd99d499d32c0c6af0)](https://www.codacy.com/app/Nhoya/gOSINT?utm_source=github.com&utm_medium=referral&utm_content=Nhoya/gOSINT&utm_campaign=Badge_Grade) [![Mentioned in Awesome Pentest](https://awesome.re/mentioned-badge.svg)](https://github.com/enaqx/awesome-pentest)
 
 OSINT Swiss Army Knife in Go
 
-Take a look at the [develop branch](https://github.com/Nhoya/gOSINT/tree/develop) for more updates.
+Take a look at the [develop branch](https://gOSINT/tree/develop) for more updates.
 
 ## Introduction
 
@@ -27,7 +27,7 @@ Currently `gOSINT` has different modules:
 - [x] Search for password relatives to email address :P
 - [x] Reverse Whois given Email Address or Name
 
-A complete features list and roadmap is available under [Projects Tab](https://github.com/Nhoya/gOSINT/projects)
+A complete features list and roadmap is available under [Projects Tab](https://gOSINT/projects)
 
 ## Installation
 
@@ -37,9 +37,9 @@ gOSINT currently depends from [tesseract-ocr](https://github.com/tesseract-ocr/)
 
 ### Install on a go-dependent way (is the easier and faster way)
 
-You can install `gOSINT` using `go get` with a simple 
+You can install `gOSINT` using `go get` with a simple
 
-`go get github.com/Nhoya/gOSINT/cmd/gosint`
+`go get gOSINT/cmd/gosint`
 
 ### Install On Windows
 
